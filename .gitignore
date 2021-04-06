@@ -3,3 +3,7 @@
 ################################################################################
 
 /LCGDServer/obj
+/APP/netcoreapp3.1
+/.vs
+/LCGDAPP/obj
+/LCGDServer/bin/Release/netcoreapp3.1
